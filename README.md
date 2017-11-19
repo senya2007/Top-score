@@ -5,3 +5,8 @@
 3. Set server address in MainManagerScrip.cs  private const string SERVER
 
 Also can run tests in GO server in server_test.go
+
+Path:
+-- TopPlayers - Unity project
+-- www - GO server
+-- topplayers.sql - MySQL database
